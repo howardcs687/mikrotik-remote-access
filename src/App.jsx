@@ -46,7 +46,7 @@ import {
   Info
 } from 'lucide-react';
 
-// --- Firebase Configuration & Initialization ---
+// --- Firebase Configuration & Initialization -
 const firebaseConfig = {
   apiKey: "AIzaSyDQt9gg_X6_SyMEn8lYBc24VAm8ll3dkbw",
   authDomain: "mikrotik-remote-access-website.firebaseapp.com",
